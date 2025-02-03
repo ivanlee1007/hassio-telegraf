@@ -1,0 +1,5 @@
+{
+  "name": "Home Assistant Add-on: Telegraf",
+  "url": "https://github.com/sabuto/hassio-telegraf",
+  "maintainer": "Alexander Ryazanov <alryaz@alryaz.com>"
+}
