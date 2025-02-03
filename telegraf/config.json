@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "slug": "hassio_telegraf",
   "description": "An addon to add telegraf to hassio.",
-  "url": "https://github.com/Sabuto/hassio-telegraf",
+  "url": "https://github.com/ivanlee1007/hassio-telegraf",
   "arch": [
     "armhf",
     "armv7",
